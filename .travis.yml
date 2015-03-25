@@ -45,4 +45,4 @@ matrix:
       env: TEST_SUITE=integration
 
 notifications:
-  disable: true
+  email: false
